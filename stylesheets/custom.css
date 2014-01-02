@@ -1,0 +1,23 @@
+.logo {
+  display: block;
+  position: absolute;
+  left: 0;
+}
+
+.list {
+  clear: both;
+}
+
+#main_content {
+  display: relative;
+}
+
+.container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 0 256px;
+}
+
+#main_content h2 {
+  margin-bottom: 12px;
+}
