@@ -133,11 +133,7 @@ html {
   /* 2 */
 }
 
-.logo {
-  display: block;
-  position: absolute;
-  left: 0;
-}
+
 
 /*
  * Addresses font-family inconsistency between 'textarea' and other form elements.
